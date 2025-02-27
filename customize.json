@@ -1,0 +1,23 @@
+{
+  "greeting": "Hey",
+  "name": "Riya",
+  "greetingText": "I really like your name",
+  "wishText": "I hope you realized something ;)",
+  "imagePath": "img/lydia2.png",
+  "text1": "It's your birthday!!!",
+  "textInChatBox": "Happy birthday to you Riya!! Yeee! Many good blah you...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realized, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are ",
+  "text5Adjective": "special",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":⁠-⁠)"
+}
