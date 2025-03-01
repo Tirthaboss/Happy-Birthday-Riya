@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     const audio = document.getElementById("bg-audio");
-    audio.volume = 0.5; // Adjust volume if needed
+    audio.volume = 10.5; // Adjust volume if needed
     audio.play().catch(error => {
         console.log("Autoplay blocked. User interaction needed.");
     });
