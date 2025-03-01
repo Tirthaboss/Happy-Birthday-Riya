@@ -1,7 +1,7 @@
 # 🎉 Happy Birthday Riya 🎉  
 *A Special Birthday Surprise with HTML, CSS, JavaScript, and JSON SVG!*  
 
-Welcome to **Happy Birthday Riya**, a beautifully crafted web-based birthday greeting project! This project uses **[!HTML](./img/html.svg) to create an interactive and heartwarming birthday experience.  
+Welcome to **Happy Birthday Riya**, a beautifully crafted web-based birthday greeting project! This project uses **[!HTML][./img/html.svg] to create an interactive and heartwarming birthday experience.  
 
 ---
 
