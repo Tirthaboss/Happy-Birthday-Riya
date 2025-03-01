@@ -15,6 +15,11 @@ Welcome to **Happy Birthday Riya**, a beautifully crafted web-based birthday gre
 
 ---
 
+
+## 🚀 Live Demo  
+Check out the live version here:  
+👉 [Happy-Birthday-Riya](https://tirthaboss.github.io/Happy-Birthday-Riya/)
+
 ## 🎯 How to Use  
 
 ### 1️⃣ Clone the Repository  
@@ -52,15 +57,16 @@ Want to personalize the greeting? Modify **`customise.json`** to add your own me
 
 
 
-## 🎊 Contributing  
-Feel free to **fork** the project, add your creativity, and make someone's birthday special! 🎂  
-
----
-
 ## 📜 License  
 This project is open-source. Feel free to use and customize it!  
 
 ---
 
-Enjoy the celebration! 🥳🎁🎂  
-👉 **[GitHub Repo](https://github.com/Tirthaboss/Happy-Birthday-Riya.git)**
+
+## 🎊 Contributing  
+Feel free to **fork** the project, add your creativity, and make someone's birthday special! 🎂  
+
+---
+
+
+Made with ❤️ by [Tirthaboss](https://github.com/tirthaboss)
