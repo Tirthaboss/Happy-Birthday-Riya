@@ -1,5 +1,6 @@
 # 🎉 Happy Birthday Riya 🎉  
 [![Website](https://img.shields.io/badge/Website-Live-blue)](https://tirthaboss.github.io/Happy-Birthday-Riya/)
+---
 *A Special Birthday Surprise with HTML, CSS, JavaScript, and JSON SVG!*  
 
 Welcome to **Happy Birthday Riya**, a beautifully crafted web-based birthday greeting project! This project use HTML,CSS, JAVASCRIPT AND JSON to create an interactive and heartwarming birthday experience.  
