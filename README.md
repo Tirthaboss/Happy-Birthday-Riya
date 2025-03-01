@@ -51,6 +51,13 @@ Want to personalize the greeting? Modify **`data.json`** to add your own message
 ✅ **JSON SVG** – Dynamic birthday-themed illustrations.  
 
 ---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/thirtha.chakeaborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thirtha.chakeaborty" height="30" width="40" /></a>
+<a href="https://instagram.com/feelltubes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="feelltubes" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/souporno chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="souporno chakraborty" height="30" width="40" /></a>
+</p>
+---
 
 ## 🎊 Contributing  
 Feel free to **fork** the project, add your creativity, and make someone's birthday special! 🎂  
